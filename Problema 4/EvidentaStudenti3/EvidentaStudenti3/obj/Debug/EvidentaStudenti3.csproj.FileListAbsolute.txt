@@ -1,0 +1,7 @@
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 4\EvidentaStudenti3\EvidentaStudenti3\bin\Debug\EvidentaStudenti3.exe.config
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 4\EvidentaStudenti3\EvidentaStudenti3\bin\Debug\EvidentaStudenti3.exe
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 4\EvidentaStudenti3\EvidentaStudenti3\bin\Debug\EvidentaStudenti3.pdb
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 4\EvidentaStudenti3\EvidentaStudenti3\obj\Debug\EvidentaStudenti3.csprojAssemblyReference.cache
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 4\EvidentaStudenti3\EvidentaStudenti3\obj\Debug\EvidentaStudenti3.csproj.CoreCompileInputs.cache
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 4\EvidentaStudenti3\EvidentaStudenti3\obj\Debug\EvidentaStudenti3.exe
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 4\EvidentaStudenti3\EvidentaStudenti3\obj\Debug\EvidentaStudenti3.pdb
