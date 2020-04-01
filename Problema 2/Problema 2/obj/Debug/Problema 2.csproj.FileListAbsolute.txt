@@ -1,0 +1,7 @@
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 2\Problema 2\Problema 2\bin\Debug\Problema 2.exe.config
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 2\Problema 2\Problema 2\bin\Debug\Problema 2.exe
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 2\Problema 2\Problema 2\bin\Debug\Problema 2.pdb
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 2\Problema 2\Problema 2\obj\Debug\Problema 2.csprojAssemblyReference.cache
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 2\Problema 2\Problema 2\obj\Debug\Problema 2.csproj.CoreCompileInputs.cache
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 2\Problema 2\Problema 2\obj\Debug\Problema 2.exe
+E:\Anul-II\Sem II\PIU\Laboratorul3\Problema 2\Problema 2\Problema 2\obj\Debug\Problema 2.pdb
